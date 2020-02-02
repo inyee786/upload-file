@@ -1,13 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ## Prerequisites:
+
    1: Git CLI
+
    2: Latest nodejs > 9
+
    3: yarn cli
+
+## For Development 
 
 ### `yarn start`
 
