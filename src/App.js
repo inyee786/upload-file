@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import FileUpload from './components/FileUpload'
+import Dashboard from './components/Dashboard'
 function App() {
   return (
-    <FileUpload />
+    <Dashboard />
   );
 }
 
